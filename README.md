@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **Nnamaka/Nnamaka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Dike Nnamaka from Nigeria, I design, build and deploy Machine Learning/Deep Learning systems. I am Experienced in Supervised and Unsupervised learning for both Logistics and Linear Regression tasks. I really enjoy working with the pytorch framework . You can check me out at https://twitter.com/DNnamaka
+### Hi there 👋, Dike Nnamaka
+#### Design , Build and Maintain ML/DL systems
+![Design , Build and Maintain ML/DL systems](https://media-exp1.licdn.com/dms/image/C4E16AQENEtjIEH8RQA/profile-displaybackgroundimage-shrink_200_800/0/1607156976198?e=1612396800&v=beta&t=6bfR_6YwdBJ5WTKgzay4r3fwAZZwG96vBPjidJeYk74)
+
+I am Experienced in Supervised and Unsupervised learning for both Logistics and Linear Regression tasks. I really enjoy working with the pytorch framework . 
+
+Skills: PYTOCH / PYTHON / C++ / GOOGLE COLAB /
+
+- 🌱 I’m currently learning TensorFlow 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/dike-nnamaka-2729951a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@DNnamaka)  
+
+
 
 
