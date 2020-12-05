@@ -27,6 +27,7 @@ I am Experienced in Supervised and Unsupervised learning for both Logistics and 
 *  PYTHON / C++
 *  GOOGLE COLAB
 
+# Others
 - 🌱 I’m currently learning TensorFlow 
 - ⚡ Fun fact: This is a very serious matter 
 
