@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Dike Nnamaka from Nigeria, I design, build and deploy Machine Learning/Deep Learning systems. I am Experienced in Supervised and Unsupervised learning for both Logistics and Linear Regression tasks. I really enjoy working with the pytorch framework . You can check me out at https://twitter.com/DNnamaka
+
+
