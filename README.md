@@ -13,14 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
-### Hi there 👋, Dike Nnamaka
 #### Design , Build and Maintain ML/DL systems
+-->
+
 ![Design , Build and Maintain ML/DL systems](https://github.com/Nnamaka/Nnamaka/blob/main/Dike%20nnamaka%20(1).png)
+
+# Dike Nnamaka
 
 I am Experienced in Supervised and Unsupervised learning for both Logistics and Linear Regression tasks. I really enjoy working with the pytorch framework . 
 
-Skills: PYTOCH / PYTHON / C++ / GOOGLE COLAB /
+# Skills and Experience
+*  PYTOCH
+*  PYTHON / C++
+*  GOOGLE COLAB
 
 - 🌱 I’m currently learning TensorFlow 
 - ⚡ Fun fact: This is a very serious matter 
