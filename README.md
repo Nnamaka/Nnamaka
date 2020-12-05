@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋, Dike Nnamaka
 #### Design , Build and Maintain ML/DL systems
-![Design , Build and Maintain ML/DL systems](https://media-exp1.licdn.com/dms/image/C4E16AQENEtjIEH8RQA/profile-displaybackgroundimage-shrink_200_800/0/1607156976198?e=1612396800&v=beta&t=6bfR_6YwdBJ5WTKgzay4r3fwAZZwG96vBPjidJeYk74)
+![Design , Build and Maintain ML/DL systems](https://github.com/Nnamaka/Nnamaka/blob/main/Dike%20nnamaka%20(1).png)
 
 I am Experienced in Supervised and Unsupervised learning for both Logistics and Linear Regression tasks. I really enjoy working with the pytorch framework . 
 
