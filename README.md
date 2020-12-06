@@ -24,7 +24,7 @@ I am Experienced in Supervised and Unsupervised learning for both Logistics and 
 
 # Skills and Experience
 *  PYTOCH
-*  PYTHON / C++
+*  PYTHON , C++
 *  GOOGLE COLAB
 
 # Others
