@@ -24,14 +24,16 @@ I am Experienced in Supervised and Unsupervised learning for both Logistics and 
 
 # Skills and Experience
 *  PYTOCH
-*  PYTHON , C++
+*  PYTHON
+*  C++
 *  GOOGLE COLAB
+*  TEELGRAM BOTS
 
 # Others
 - 🌱 I’m currently learning TensorFlow 
 - ⚡ Fun fact: This is a very serious matter 
 - 💬 Ask me about ice cream
-- ⚡ Fun fact: The wood frog can hold its pee for up to eight months.
+- ⚡ Fun fact: The wood frog can hold its pee for up to eight months.WHAT?
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/dike-nnamaka-2729951a4/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@DNnamaka)  
 
