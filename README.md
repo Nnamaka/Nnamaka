@@ -20,18 +20,18 @@ Here are some ideas to get you started:
 
 # Dike Nnamaka
 
-I am Experienced in Supervised and Unsupervised learning for both Logistics and Linear Regression tasks. I really enjoy working with the pytorch framework . 
+I am Experienced in Supervised and Unsupervised learning learning tasks. I really enjoy working with both the pytorch and Tensorflow frameworks . 
 
 # Skills and Experience
 *  PYTOCH
-*  PYTHON
-*  C++
+*  TENSORFLOW
+*  KERAS
 *  GOOGLE COLAB
 *  TEELGRAM BOTS
 
 # Others
-- 🌱 I’m currently learning TensorFlow 
-- ⚡ Fun fact: This is a very serious matter 
+- 🌱 I’m currently working on a personal project 
+- ⚡ Fun : The best thing about the future is that it comes one day at a time. 
 - 💬 Ask me about ice cream
 - ⚡ Fun fact: The wood frog can hold its pee for up to eight months.WHAT?
 
