@@ -20,9 +20,7 @@ Here are some ideas to get you started:
 
 # Dike Nnamaka
 
-I am Experienced in Supervised and Unsupervised learning learning tasks. I really enjoy working with both the pytorch and Tensorflow frameworks . 
-
-# Skills and Experience
+## Skills and Experience
 *  PYTOCH
 
 *  TENSORFLOW
