@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 # Dike Nnamaka
 
-## Skills and Experience
+## Core Tools
 *  PYTOCH
 
 *  TENSORFLOW
