@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <!-- ![Design , Build and Maintain ML/DL systems](https://github.com/Nnamaka/Nnamaka/blob/main/Dike%20nnamaka%20(1).png) -->
 
-<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm Dike Nnamaka </samp></h4>
+<h3 align="center"><samp> Hi there 👋  welcome to my Github! I'm Dike Nnamaka </samp></h3>
 
 ## Core Tools
 *  PYTOCH
