@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <h3 align="center"><samp> Hi there 👋  welcome to my Github! I'm Dike Nnamaka </samp></h3>
 
-<h2 align="center"><samp> Machine/Deep Learning Engineer </samp></h2>
+<h2 align="center"><samp>A Machine/Deep Learning Engineer </samp></h2>
 
 ## Core Tools
 *  PYTOCH
