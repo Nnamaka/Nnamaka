@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![Design , Build and Maintain ML/DL systems](https://github.com/Nnamaka/Nnamaka/blob/main/pngegg.png) -->
+<!--
 <p align="center">
   <img width="250" src="https://github.com/Nnamaka/Nnamaka/blob/main/pngegg.png">
 </p>
-
+-->
 
 <h3 align="center"><samp> Hi there 👋  welcome to my Github! I'm Dike Nnamaka </samp></h3>
 
