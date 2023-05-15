@@ -23,12 +23,12 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<h3 align="left"><samp> Hi there 👋  welcome to my Github! I'm Dike Nnamaka </samp></h3>
+<h3 align="left"><samp> Hi there 👋  welcome! </samp></h3>
 
-<h2 align="left"><samp>A Machine Learning Engineer </samp></h2>
-
-## Core Tools
+<h2 align="left"><samp>I'm a ML Engineer </samp></h2>
+- 🌱 I’m currently learning Machine Learning Ops
+<!-- ## Core Tools
 *  PYTOCH
 
 *  TENSORFLOW
-
+ -->
