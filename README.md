@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<h3 align="left"><samp> Hi there 👋  welcome! </samp></h3>
+<h3 align="left"><samp> Hi there 😁  welcome! </samp></h3>
 
 <h2 align="left"><samp>I'm a ML Engineer </samp></h2>
-- 🌱 I’m currently learning ML Ops and Software Engineering
+- 🐱‍💻 I’m currently learning MLOps and Software Engineering
 <!-- ## Core Tools
 *  PYTOCH
 
