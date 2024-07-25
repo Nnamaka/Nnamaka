@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="left"><samp> Hi there 😁  welcome! </samp></h3>
 
-<h2 align="left"><samp>I'm a ML Engineer </samp></h2>
+<h2 align="left"><samp>ML Engineer </samp></h2>
 - 📫 How to reach me: nnamaka7@gmail.com
 <!-- ## Core Tools
 *  PYTOCH
